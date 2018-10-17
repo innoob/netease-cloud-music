@@ -1,5 +1,6 @@
 # netease-cloud-music
 可用于ubuntu 18.04的网易云音乐
+<<<<<<< HEAD
 
 [下载Release包](https://github.com/InNoob/netease-cloud-music/releases)
 
@@ -14,3 +15,8 @@
 > ####  基于 1.0.0 的网易云音乐修改代码重新编译打包
 > ####  修复了在ubuntu18.04下可以正常安装但无法打开使用的bug
 > ####  移除了vlc客户端的依赖，安装之后不再捆绑vlc
+=======
+####  基于历史版本的网易云音乐修改代码重新编译打包
+####  修复了在ubuntu18.04下可以正常安装但无法打开使用的bug
+####  移除了vlc客户端的依赖，安装之后不再捆绑vlc
+>>>>>>> d26b2238097bff492cb9f908b8df53f148314d4d
