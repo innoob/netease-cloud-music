@@ -17,9 +17,3 @@ done
 sleep 1s
 kill -s 9 ${M_PID}
 
-#### 移除
-#sleep 1s
-#M_PID=`ps -e -opid -ocmd | grep -w '\w* /opt/netease-cloud-music/bin/netease-cloud-music$' | awk '{print $1}'`
-#/opt/netease-cloud-music/bin/netease-cloud-music &
-#sleep 1s
-#kill -s 9 $M_PID
