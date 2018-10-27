@@ -4,6 +4,7 @@
 [下载Release包](https://github.com/InNoob/netease-cloud-music/releases)
 
 可用于deb包系的deepin-wine一键安装脚本(可用于安装TIM,QQ,迅雷等软件)
+
 [deepin-wine-installer](https://github.com/InNoob/deepin-wine-installer)
 
 ####  1.1.1+rebuild.release-2
