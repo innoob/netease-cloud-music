@@ -1,6 +1,8 @@
 # netease-cloud-music
 可用于ubuntu 18.04的网易云音乐
 
+这些问题在新版本1.2.0似乎已经修复了，请各位到[官网](https://music.163.com/#/download)下载安装1.2.0版本
+
 [下载Release包](https://github.com/InNoob/netease-cloud-music/releases)
 
 要安装deepin-wine看这里：可用于deb包系的deepin-wine一键安装脚本(可用于安装TIM,QQ,迅雷等软件)
